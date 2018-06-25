@@ -62,9 +62,11 @@
 								
 									<listOptionValue builtIn="false" value="DEVICE_DEBUG_AWARENESS=1"/>
 								
+									<listOptionValue builtIn="false" value="MBED_BUILD_TIMESTAMP=1529956615.7"/>
+								
 									<listOptionValue builtIn="false" value="DEVICE_CAN=1"/>
 								
-									<listOptionValue builtIn="false" value="MBED_BUILD_TIMESTAMP=1529952360.17"/>
+									<listOptionValue builtIn="false" value="TARGET_LIKE_CORTEX_M3"/>
 								
 									<listOptionValue builtIn="false" value="TARGET_CORTEX_M"/>
 								
@@ -115,8 +117,6 @@
 									<listOptionValue builtIn="false" value="DEVICE_ANALOGIN=1"/>
 								
 									<listOptionValue builtIn="false" value="DEVICE_SERIAL=1"/>
-								
-									<listOptionValue builtIn="false" value="TARGET_LIKE_CORTEX_M3"/>
 								
 									<listOptionValue builtIn="false" value="DEVICE_FLASH=1"/>
 								
@@ -208,9 +208,11 @@
 									
 									<listOptionValue builtIn="false" value="DEVICE_DEBUG_AWARENESS=1"/>
 									
+									<listOptionValue builtIn="false" value="MBED_BUILD_TIMESTAMP=1529956615.7"/>
+									
 									<listOptionValue builtIn="false" value="DEVICE_CAN=1"/>
 									
-									<listOptionValue builtIn="false" value="MBED_BUILD_TIMESTAMP=1529952360.17"/>
+									<listOptionValue builtIn="false" value="TARGET_LIKE_CORTEX_M3"/>
 									
 									<listOptionValue builtIn="false" value="TARGET_CORTEX_M"/>
 									
@@ -261,8 +263,6 @@
 									<listOptionValue builtIn="false" value="DEVICE_ANALOGIN=1"/>
 									
 									<listOptionValue builtIn="false" value="DEVICE_SERIAL=1"/>
-									
-									<listOptionValue builtIn="false" value="TARGET_LIKE_CORTEX_M3"/>
 									
 									<listOptionValue builtIn="false" value="DEVICE_FLASH=1"/>
 									
